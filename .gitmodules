@@ -1,3 +1,6 @@
 [submodule "frobtads"]
 	path = frobtads
 	url = https://github.com/realnc/frobtads.git
+[submodule "adv3lite"]
+	path = adv3lite
+	url = https://github.com/EricEve/adv3lite.git
