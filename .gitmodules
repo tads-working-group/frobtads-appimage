@@ -1,0 +1,3 @@
+[submodule "frobtads"]
+	path = frobtads
+	url = https://github.com/realnc/frobtads.git

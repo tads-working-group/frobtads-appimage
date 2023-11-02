@@ -1,0 +1,7 @@
+[Desktop Entry]
+Categories=Utility;
+Icon=application-x-executable
+Name=t3make
+Type=Application
+Exec=t3make
+
